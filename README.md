@@ -5,4 +5,4 @@ Showcasing my **projects, skills, and journey** with a sleek, responsive design 
 
 🚀 **Technologies Used:** HTML, CSS, JavaScript 
 
-🔗 [Live Demo](your-portfolio-link.com) (Replace with your actual link)  
+🔗 [Live Demo](https://jaypatil-portfolio.netlify.app/) (Replace with your actual link)  
